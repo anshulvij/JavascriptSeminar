@@ -1,0 +1,2738 @@
+Meteor TutSign in with Google
+GET USER DATA
+[
+{
+"is_claimed": true,
+"rating": 4.5,
+"mobile_url": "http://m.yelp.de/biz/bamyan-narges-m%C3%BCnchen",
+"rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+"review_count": 68,
+"name": "Bamyan Narges",
+"snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/I7xwEiiqssOFoUM2H7Z5jg/ms.jpg",
+"rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+"url": "http://www.yelp.de/biz/bamyan-narges-m%C3%BCnchen",
+"phone": "+498923888878",
+"snippet_text": "We were headed somewhere else in the rain, but it was closed so we ended up coming here. What a pleasant surprise. \n\nWe arrived shortly after 1530 so there...",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/9wAkDchBEDIoyjVJ1rKeLQ/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 23888878",
+"rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+"id": "bamyan-narges-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Hans-Sachs-Str. 3",
+"Isarvorstadt",
+"80469 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"neighborhoods": [
+"Isarvorstadt"
+],
+"postal_code": "80469",
+"country_code": "DE",
+"address": [
+"Hans-Sachs-Str. 3"
+],
+"coordinate": {
+"latitude": 48.1303506,
+"longitude": 11.570389
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/chopan-m%C3%BCnchen",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 47,
+"name": "Chopan",
+"snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/FGZEiRTmgWXWh_Krn8qCjg/ms.jpg",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/chopan-m%C3%BCnchen",
+"phone": "+498918956459",
+"snippet_text": "Nice place. The atmosphere is cool and nice service. A bit small portions for the price. Overall a place to try at least once.",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/KBYIx5_3PbRL6ojY9Y2U5Q/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 18956459",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "chopan-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Elvirastraße 18a",
+"Neuhausen",
+"80636 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Neuhausen"
+],
+"postal_code": "80636",
+"country_code": "DE",
+"address": [
+"Elvirastraße 18a"
+],
+"coordinate": {
+"latitude": 48.1484108,
+"longitude": 11.5435104
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": true,
+"rating": 4,
+"mobile_url": "http://m.yelp.de/biz/chopan-m%C3%BCnchen-2",
+"rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+"review_count": 38,
+"name": "Chopan",
+"snippet_image_url": "http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+"rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+"url": "http://www.yelp.de/biz/chopan-m%C3%BCnchen-2",
+"phone": "+498944118571",
+"snippet_text": "Amazing food. This little gourmet pearl in Munich is run by an afghan family and delivers absolutly great food. If you sit on the wall in this very small...",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/x0TT-82zWO3WRySK98Qp6w/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 44118571",
+"rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+"id": "chopan-münchen-2",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Rosenheimer Str. 6",
+"81669 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"postal_code": "81669",
+"country_code": "DE",
+"address": [
+"Rosenheimer Str. 6"
+],
+"coordinate": {
+"latitude": 48.1314555,
+"longitude": 11.5883344
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/lemar-m%C3%BCnchen",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 44,
+"name": "Lemar",
+"snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/Yyy9zZwPxmTg45cR_wCvsg/ms.jpg",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/lemar-m%C3%BCnchen",
+"phone": "+4989397677",
+"snippet_text": "Dont know if this is the one i went to or not since there are 2 \"Lemar\"s, food is great, amounts are not so much",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/YBcU81JegSYHVjpE81T8dQ/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+],
+[
+"Lounges",
+"lounges"
+]
+],
+"display_phone": "+49 89 397677",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "lemar-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Brunnstr. 4",
+"Altstadt",
+"80331 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Altstadt"
+],
+"postal_code": "80331",
+"country_code": "DE",
+"address": [
+"Brunnstr. 4"
+],
+"coordinate": {
+"latitude": 48.1363106,
+"longitude": 11.5689402
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": true,
+"rating": 4,
+"mobile_url": "http://m.yelp.de/biz/khorassan-m%C3%BCnchen-2",
+"rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+"review_count": 6,
+"name": "Khorassan",
+"rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+"url": "http://www.yelp.de/biz/khorassan-m%C3%BCnchen-2",
+"phone": "+498930668937",
+"image_url": "http://s3-media3.fl.yelpassets.com/bphoto/H5i6BRntvYAxexG8pVqQEw/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+],
+[
+"Food Delivery Services",
+"fooddeliveryservices"
+],
+[
+"Caterers",
+"catering"
+]
+],
+"display_phone": "+49 89 30668937",
+"rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+"id": "khorassan-münchen-2",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Ungererstr. 56",
+"Schwabing",
+"80805 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"neighborhoods": [
+"Schwabing"
+],
+"postal_code": "80805",
+"country_code": "DE",
+"address": [
+"Ungererstr. 56"
+],
+"coordinate": {
+"latitude": 48.166649,
+"longitude": 11.5907
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3,
+"mobile_url": "http://m.yelp.de/biz/lemar-isartor-m%C3%BCnchen",
+"rating_img_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+"review_count": 5,
+"name": "Lemar Isartor",
+"rating_img_url_small": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+"url": "http://www.yelp.de/biz/lemar-isartor-m%C3%BCnchen",
+"phone": "+498999940747",
+"image_url": "http://s3-media4.fl.yelpassets.com/bphoto/wsIHFCSjaM3u-_XKg-XP6w/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 99940747",
+"rating_img_url_large": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+"id": "lemar-isartor-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Thierschstraße 5",
+"80538 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"postal_code": "80538",
+"country_code": "DE",
+"address": [
+"Thierschstraße 5"
+],
+"coordinate": {
+"latitude": 48.134361,
+"longitude": 11.584439
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/lemar-m%C3%BCnchen-3",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 52,
+"name": "Lemar",
+"snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/zVfY0BVbgGAfiE3nscsCEg/ms.jpg",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/lemar-m%C3%BCnchen-3",
+"phone": "+4989397677",
+"snippet_text": "A very nice Afghane restaurant, we enjoyed the nice atmosphere and the decoration: you can even dine on a table that is lower on the ground (oriental...",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/GFvkc971K6Da5qDHRP0dLA/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 397677",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "lemar-münchen-3",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Viktor-Scheffel-Str. 23",
+"Schwabing-West",
+"80803 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Schwabing-West"
+],
+"postal_code": "80803",
+"country_code": "DE",
+"address": [
+"Viktor-Scheffel-Str. 23"
+],
+"coordinate": {
+"latitude": 48.1617203,
+"longitude": 11.5751495
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3,
+"mobile_url": "http://m.yelp.de/biz/little-chopan-m%C3%BCnchen",
+"rating_img_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+"review_count": 1,
+"name": "Little Chopan",
+"snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/Xf6_Q0U9glJ6LbFv8HQvtw/ms.jpg",
+"rating_img_url_small": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+"url": "http://www.yelp.de/biz/little-chopan-m%C3%BCnchen",
+"phone": "+498961465888",
+"snippet_text": "3.5 stars.\n\nA convenient location by the Gasteig for a quick Afghan meal before a performance. We went to the cozy and atmospheric \"Little Chopan\" on an...",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 61465888",
+"rating_img_url_large": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+"id": "little-chopan-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Rosenheimer Str. 8",
+"81669 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"postal_code": "81669",
+"country_code": "DE",
+"address": [
+"Rosenheimer Str. 8"
+],
+"coordinate": {
+"latitude": 48.1314392,
+"longitude": 11.5888395
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3,
+"mobile_url": "http://m.yelp.de/biz/afghan-grillhaus-m%C3%BCnchen",
+"rating_img_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+"review_count": 1,
+"name": "Afghan Grillhaus",
+"snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/fWsIaSmcpr3t-yIzTLhPlg/ms.jpg",
+"rating_img_url_small": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+"url": "http://www.yelp.de/biz/afghan-grillhaus-m%C3%BCnchen",
+"snippet_text": "It took them more then 1 hour to get the food delivered. The upside is, that they offer delivery pretty much the whole night. The food was ok, but 15 euro...",
+"categories": [
+[
+"Afghan",
+"afghani"
+],
+[
+"Barbeque",
+"bbq"
+]
+],
+"rating_img_url_large": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+"id": "afghan-grillhaus-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Kapuziner Str. 17",
+"80337 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"postal_code": "80337",
+"country_code": "DE",
+"address": [
+"Kapuziner Str. 17"
+],
+"coordinate": {
+"latitude": 48.1270561218262,
+"longitude": 11.5575246810913
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 5,
+"mobile_url": "http://m.yelp.de/biz/chopan-schwabing-m%C3%BCnchen-2",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+"review_count": 2,
+"name": "Chopan-Schwabing",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+"url": "http://www.yelp.de/biz/chopan-schwabing-m%C3%BCnchen-2",
+"image_url": "http://s3-media1.fl.yelpassets.com/bphoto/olqc-U11NPfAfsqLf-jvJA/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+"id": "chopan-schwabing-münchen-2",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Occamstr. 3",
+"Schwabing",
+"80802 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Schwabing"
+],
+"postal_code": "80802",
+"country_code": "DE",
+"address": [
+"Occamstr. 3"
+],
+"coordinate": {
+"latitude": 48.1617203,
+"longitude": 11.5891895
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/toulou-m%C3%BCnchen",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 13,
+"name": "Toulou",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/toulou-m%C3%BCnchen",
+"phone": "+498923076717",
+"image_url": "http://s3-media1.fl.yelpassets.com/bphoto/wefS0AP0ufpEN3xwgwjLqQ/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 23076717",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "toulou-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Herzog-Wilhelm-Str. 25",
+"Altstadt",
+"80331 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Altstadt"
+],
+"postal_code": "80331",
+"country_code": "DE",
+"address": [
+"Herzog-Wilhelm-Str. 25"
+],
+"coordinate": {
+"latitude": 48.1354713,
+"longitude": 11.5673399
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 4,
+"mobile_url": "http://m.yelp.de/biz/lemar-starnberg",
+"rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+"review_count": 12,
+"name": "Lemar",
+"snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/0Vn99qbBIe24JfPJYnvOIg/ms.jpg",
+"rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+"url": "http://www.yelp.de/biz/lemar-starnberg",
+"phone": "+4981516410",
+"snippet_text": "The best Afghani restaurant in munich! Everything is authentic and made from the family recipe. Highly recommended, great customer service. Salim and Wais...",
+"image_url": "http://s3-media4.fl.yelpassets.com/bphoto/IJvfws3wbU5AepgGgZinug/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 8151 6410",
+"rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+"id": "lemar-starnberg",
+"is_closed": false,
+"location": {
+"city": "Starnberg",
+"display_address": [
+"Zweigstr. 2",
+"82319 Starnberg",
+"Germany"
+],
+"geo_accuracy": 8,
+"postal_code": "82319",
+"country_code": "DE",
+"address": [
+"Zweigstr. 2"
+],
+"coordinate": {
+"latitude": 47.9972115,
+"longitude": 11.3428602
+},
+"state_code": "BY"
+}
+},
+null,
+{
+"is_claimed": true,
+"rating": 4.5,
+"mobile_url": "http://m.yelp.de/biz/bamyan-narges-m%C3%BCnchen",
+"rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+"review_count": 68,
+"name": "Bamyan Narges",
+"snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/I7xwEiiqssOFoUM2H7Z5jg/ms.jpg",
+"rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+"url": "http://www.yelp.de/biz/bamyan-narges-m%C3%BCnchen",
+"phone": "+498923888878",
+"snippet_text": "We were headed somewhere else in the rain, but it was closed so we ended up coming here. What a pleasant surprise. \n\nWe arrived shortly after 1530 so there...",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/9wAkDchBEDIoyjVJ1rKeLQ/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 23888878",
+"rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+"id": "bamyan-narges-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Hans-Sachs-Str. 3",
+"Isarvorstadt",
+"80469 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"neighborhoods": [
+"Isarvorstadt"
+],
+"postal_code": "80469",
+"country_code": "DE",
+"address": [
+"Hans-Sachs-Str. 3"
+],
+"coordinate": {
+"latitude": 48.1303506,
+"longitude": 11.570389
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/chopan-m%C3%BCnchen",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 47,
+"name": "Chopan",
+"snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/FGZEiRTmgWXWh_Krn8qCjg/ms.jpg",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/chopan-m%C3%BCnchen",
+"phone": "+498918956459",
+"snippet_text": "Nice place. The atmosphere is cool and nice service. A bit small portions for the price. Overall a place to try at least once.",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/KBYIx5_3PbRL6ojY9Y2U5Q/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 18956459",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "chopan-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Elvirastraße 18a",
+"Neuhausen",
+"80636 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Neuhausen"
+],
+"postal_code": "80636",
+"country_code": "DE",
+"address": [
+"Elvirastraße 18a"
+],
+"coordinate": {
+"latitude": 48.1484108,
+"longitude": 11.5435104
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": true,
+"rating": 4,
+"mobile_url": "http://m.yelp.de/biz/chopan-m%C3%BCnchen-2",
+"rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+"review_count": 38,
+"name": "Chopan",
+"snippet_image_url": "http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+"rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+"url": "http://www.yelp.de/biz/chopan-m%C3%BCnchen-2",
+"phone": "+498944118571",
+"snippet_text": "Amazing food. This little gourmet pearl in Munich is run by an afghan family and delivers absolutly great food. If you sit on the wall in this very small...",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/x0TT-82zWO3WRySK98Qp6w/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 44118571",
+"rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+"id": "chopan-münchen-2",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Rosenheimer Str. 6",
+"81669 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"postal_code": "81669",
+"country_code": "DE",
+"address": [
+"Rosenheimer Str. 6"
+],
+"coordinate": {
+"latitude": 48.1314555,
+"longitude": 11.5883344
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/lemar-m%C3%BCnchen",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 44,
+"name": "Lemar",
+"snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/Yyy9zZwPxmTg45cR_wCvsg/ms.jpg",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/lemar-m%C3%BCnchen",
+"phone": "+4989397677",
+"snippet_text": "Dont know if this is the one i went to or not since there are 2 \"Lemar\"s, food is great, amounts are not so much",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/YBcU81JegSYHVjpE81T8dQ/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+],
+[
+"Lounges",
+"lounges"
+]
+],
+"display_phone": "+49 89 397677",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "lemar-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Brunnstr. 4",
+"Altstadt",
+"80331 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Altstadt"
+],
+"postal_code": "80331",
+"country_code": "DE",
+"address": [
+"Brunnstr. 4"
+],
+"coordinate": {
+"latitude": 48.1363106,
+"longitude": 11.5689402
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": true,
+"rating": 4,
+"mobile_url": "http://m.yelp.de/biz/khorassan-m%C3%BCnchen-2",
+"rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+"review_count": 6,
+"name": "Khorassan",
+"rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+"url": "http://www.yelp.de/biz/khorassan-m%C3%BCnchen-2",
+"phone": "+498930668937",
+"image_url": "http://s3-media3.fl.yelpassets.com/bphoto/H5i6BRntvYAxexG8pVqQEw/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+],
+[
+"Food Delivery Services",
+"fooddeliveryservices"
+],
+[
+"Caterers",
+"catering"
+]
+],
+"display_phone": "+49 89 30668937",
+"rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+"id": "khorassan-münchen-2",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Ungererstr. 56",
+"Schwabing",
+"80805 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"neighborhoods": [
+"Schwabing"
+],
+"postal_code": "80805",
+"country_code": "DE",
+"address": [
+"Ungererstr. 56"
+],
+"coordinate": {
+"latitude": 48.166649,
+"longitude": 11.5907
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3,
+"mobile_url": "http://m.yelp.de/biz/lemar-isartor-m%C3%BCnchen",
+"rating_img_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+"review_count": 5,
+"name": "Lemar Isartor",
+"rating_img_url_small": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+"url": "http://www.yelp.de/biz/lemar-isartor-m%C3%BCnchen",
+"phone": "+498999940747",
+"image_url": "http://s3-media4.fl.yelpassets.com/bphoto/wsIHFCSjaM3u-_XKg-XP6w/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 99940747",
+"rating_img_url_large": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+"id": "lemar-isartor-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Thierschstraße 5",
+"80538 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"postal_code": "80538",
+"country_code": "DE",
+"address": [
+"Thierschstraße 5"
+],
+"coordinate": {
+"latitude": 48.134361,
+"longitude": 11.584439
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/lemar-m%C3%BCnchen-3",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 52,
+"name": "Lemar",
+"snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/zVfY0BVbgGAfiE3nscsCEg/ms.jpg",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/lemar-m%C3%BCnchen-3",
+"phone": "+4989397677",
+"snippet_text": "A very nice Afghane restaurant, we enjoyed the nice atmosphere and the decoration: you can even dine on a table that is lower on the ground (oriental...",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/GFvkc971K6Da5qDHRP0dLA/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 397677",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "lemar-münchen-3",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Viktor-Scheffel-Str. 23",
+"Schwabing-West",
+"80803 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Schwabing-West"
+],
+"postal_code": "80803",
+"country_code": "DE",
+"address": [
+"Viktor-Scheffel-Str. 23"
+],
+"coordinate": {
+"latitude": 48.1617203,
+"longitude": 11.5751495
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3,
+"mobile_url": "http://m.yelp.de/biz/little-chopan-m%C3%BCnchen",
+"rating_img_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+"review_count": 1,
+"name": "Little Chopan",
+"snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/Xf6_Q0U9glJ6LbFv8HQvtw/ms.jpg",
+"rating_img_url_small": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+"url": "http://www.yelp.de/biz/little-chopan-m%C3%BCnchen",
+"phone": "+498961465888",
+"snippet_text": "3.5 stars.\n\nA convenient location by the Gasteig for a quick Afghan meal before a performance. We went to the cozy and atmospheric \"Little Chopan\" on an...",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 61465888",
+"rating_img_url_large": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+"id": "little-chopan-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Rosenheimer Str. 8",
+"81669 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"postal_code": "81669",
+"country_code": "DE",
+"address": [
+"Rosenheimer Str. 8"
+],
+"coordinate": {
+"latitude": 48.1314392,
+"longitude": 11.5888395
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3,
+"mobile_url": "http://m.yelp.de/biz/afghan-grillhaus-m%C3%BCnchen",
+"rating_img_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+"review_count": 1,
+"name": "Afghan Grillhaus",
+"snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/fWsIaSmcpr3t-yIzTLhPlg/ms.jpg",
+"rating_img_url_small": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+"url": "http://www.yelp.de/biz/afghan-grillhaus-m%C3%BCnchen",
+"snippet_text": "It took them more then 1 hour to get the food delivered. The upside is, that they offer delivery pretty much the whole night. The food was ok, but 15 euro...",
+"categories": [
+[
+"Afghan",
+"afghani"
+],
+[
+"Barbeque",
+"bbq"
+]
+],
+"rating_img_url_large": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+"id": "afghan-grillhaus-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Kapuziner Str. 17",
+"80337 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"postal_code": "80337",
+"country_code": "DE",
+"address": [
+"Kapuziner Str. 17"
+],
+"coordinate": {
+"latitude": 48.1270561218262,
+"longitude": 11.5575246810913
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 5,
+"mobile_url": "http://m.yelp.de/biz/chopan-schwabing-m%C3%BCnchen-2",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+"review_count": 2,
+"name": "Chopan-Schwabing",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+"url": "http://www.yelp.de/biz/chopan-schwabing-m%C3%BCnchen-2",
+"image_url": "http://s3-media1.fl.yelpassets.com/bphoto/olqc-U11NPfAfsqLf-jvJA/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+"id": "chopan-schwabing-münchen-2",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Occamstr. 3",
+"Schwabing",
+"80802 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Schwabing"
+],
+"postal_code": "80802",
+"country_code": "DE",
+"address": [
+"Occamstr. 3"
+],
+"coordinate": {
+"latitude": 48.1617203,
+"longitude": 11.5891895
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/toulou-m%C3%BCnchen",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 13,
+"name": "Toulou",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/toulou-m%C3%BCnchen",
+"phone": "+498923076717",
+"image_url": "http://s3-media1.fl.yelpassets.com/bphoto/wefS0AP0ufpEN3xwgwjLqQ/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 23076717",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "toulou-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Herzog-Wilhelm-Str. 25",
+"Altstadt",
+"80331 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Altstadt"
+],
+"postal_code": "80331",
+"country_code": "DE",
+"address": [
+"Herzog-Wilhelm-Str. 25"
+],
+"coordinate": {
+"latitude": 48.1354713,
+"longitude": 11.5673399
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 4,
+"mobile_url": "http://m.yelp.de/biz/lemar-starnberg",
+"rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+"review_count": 12,
+"name": "Lemar",
+"snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/0Vn99qbBIe24JfPJYnvOIg/ms.jpg",
+"rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+"url": "http://www.yelp.de/biz/lemar-starnberg",
+"phone": "+4981516410",
+"snippet_text": "The best Afghani restaurant in munich! Everything is authentic and made from the family recipe. Highly recommended, great customer service. Salim and Wais...",
+"image_url": "http://s3-media4.fl.yelpassets.com/bphoto/IJvfws3wbU5AepgGgZinug/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 8151 6410",
+"rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+"id": "lemar-starnberg",
+"is_closed": false,
+"location": {
+"city": "Starnberg",
+"display_address": [
+"Zweigstr. 2",
+"82319 Starnberg",
+"Germany"
+],
+"geo_accuracy": 8,
+"postal_code": "82319",
+"country_code": "DE",
+"address": [
+"Zweigstr. 2"
+],
+"coordinate": {
+"latitude": 47.9972115,
+"longitude": 11.3428602
+},
+"state_code": "BY"
+}
+},
+null,
+{
+"is_claimed": true,
+"rating": 4.5,
+"mobile_url": "http://m.yelp.de/biz/bamyan-narges-m%C3%BCnchen",
+"rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+"review_count": 68,
+"name": "Bamyan Narges",
+"snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/I7xwEiiqssOFoUM2H7Z5jg/ms.jpg",
+"rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+"url": "http://www.yelp.de/biz/bamyan-narges-m%C3%BCnchen",
+"phone": "+498923888878",
+"snippet_text": "We were headed somewhere else in the rain, but it was closed so we ended up coming here. What a pleasant surprise. \n\nWe arrived shortly after 1530 so there...",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/9wAkDchBEDIoyjVJ1rKeLQ/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 23888878",
+"rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+"id": "bamyan-narges-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Hans-Sachs-Str. 3",
+"Isarvorstadt",
+"80469 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"neighborhoods": [
+"Isarvorstadt"
+],
+"postal_code": "80469",
+"country_code": "DE",
+"address": [
+"Hans-Sachs-Str. 3"
+],
+"coordinate": {
+"latitude": 48.1303506,
+"longitude": 11.570389
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/chopan-m%C3%BCnchen",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 47,
+"name": "Chopan",
+"snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/FGZEiRTmgWXWh_Krn8qCjg/ms.jpg",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/chopan-m%C3%BCnchen",
+"phone": "+498918956459",
+"snippet_text": "Nice place. The atmosphere is cool and nice service. A bit small portions for the price. Overall a place to try at least once.",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/KBYIx5_3PbRL6ojY9Y2U5Q/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 18956459",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "chopan-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Elvirastraße 18a",
+"Neuhausen",
+"80636 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Neuhausen"
+],
+"postal_code": "80636",
+"country_code": "DE",
+"address": [
+"Elvirastraße 18a"
+],
+"coordinate": {
+"latitude": 48.1484108,
+"longitude": 11.5435104
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": true,
+"rating": 4,
+"mobile_url": "http://m.yelp.de/biz/chopan-m%C3%BCnchen-2",
+"rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+"review_count": 38,
+"name": "Chopan",
+"snippet_image_url": "http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+"rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+"url": "http://www.yelp.de/biz/chopan-m%C3%BCnchen-2",
+"phone": "+498944118571",
+"snippet_text": "Amazing food. This little gourmet pearl in Munich is run by an afghan family and delivers absolutly great food. If you sit on the wall in this very small...",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/x0TT-82zWO3WRySK98Qp6w/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 44118571",
+"rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+"id": "chopan-münchen-2",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Rosenheimer Str. 6",
+"81669 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"postal_code": "81669",
+"country_code": "DE",
+"address": [
+"Rosenheimer Str. 6"
+],
+"coordinate": {
+"latitude": 48.1314555,
+"longitude": 11.5883344
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/lemar-m%C3%BCnchen",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 44,
+"name": "Lemar",
+"snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/Yyy9zZwPxmTg45cR_wCvsg/ms.jpg",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/lemar-m%C3%BCnchen",
+"phone": "+4989397677",
+"snippet_text": "Dont know if this is the one i went to or not since there are 2 \"Lemar\"s, food is great, amounts are not so much",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/YBcU81JegSYHVjpE81T8dQ/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+],
+[
+"Lounges",
+"lounges"
+]
+],
+"display_phone": "+49 89 397677",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "lemar-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Brunnstr. 4",
+"Altstadt",
+"80331 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Altstadt"
+],
+"postal_code": "80331",
+"country_code": "DE",
+"address": [
+"Brunnstr. 4"
+],
+"coordinate": {
+"latitude": 48.1363106,
+"longitude": 11.5689402
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": true,
+"rating": 4,
+"mobile_url": "http://m.yelp.de/biz/khorassan-m%C3%BCnchen-2",
+"rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+"review_count": 6,
+"name": "Khorassan",
+"rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+"url": "http://www.yelp.de/biz/khorassan-m%C3%BCnchen-2",
+"phone": "+498930668937",
+"image_url": "http://s3-media3.fl.yelpassets.com/bphoto/H5i6BRntvYAxexG8pVqQEw/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+],
+[
+"Food Delivery Services",
+"fooddeliveryservices"
+],
+[
+"Caterers",
+"catering"
+]
+],
+"display_phone": "+49 89 30668937",
+"rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+"id": "khorassan-münchen-2",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Ungererstr. 56",
+"Schwabing",
+"80805 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"neighborhoods": [
+"Schwabing"
+],
+"postal_code": "80805",
+"country_code": "DE",
+"address": [
+"Ungererstr. 56"
+],
+"coordinate": {
+"latitude": 48.166649,
+"longitude": 11.5907
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3,
+"mobile_url": "http://m.yelp.de/biz/lemar-isartor-m%C3%BCnchen",
+"rating_img_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+"review_count": 5,
+"name": "Lemar Isartor",
+"rating_img_url_small": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+"url": "http://www.yelp.de/biz/lemar-isartor-m%C3%BCnchen",
+"phone": "+498999940747",
+"image_url": "http://s3-media4.fl.yelpassets.com/bphoto/wsIHFCSjaM3u-_XKg-XP6w/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 99940747",
+"rating_img_url_large": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+"id": "lemar-isartor-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Thierschstraße 5",
+"80538 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"postal_code": "80538",
+"country_code": "DE",
+"address": [
+"Thierschstraße 5"
+],
+"coordinate": {
+"latitude": 48.134361,
+"longitude": 11.584439
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/lemar-m%C3%BCnchen-3",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 52,
+"name": "Lemar",
+"snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/zVfY0BVbgGAfiE3nscsCEg/ms.jpg",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/lemar-m%C3%BCnchen-3",
+"phone": "+4989397677",
+"snippet_text": "A very nice Afghane restaurant, we enjoyed the nice atmosphere and the decoration: you can even dine on a table that is lower on the ground (oriental...",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/GFvkc971K6Da5qDHRP0dLA/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 397677",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "lemar-münchen-3",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Viktor-Scheffel-Str. 23",
+"Schwabing-West",
+"80803 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Schwabing-West"
+],
+"postal_code": "80803",
+"country_code": "DE",
+"address": [
+"Viktor-Scheffel-Str. 23"
+],
+"coordinate": {
+"latitude": 48.1617203,
+"longitude": 11.5751495
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3,
+"mobile_url": "http://m.yelp.de/biz/little-chopan-m%C3%BCnchen",
+"rating_img_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+"review_count": 1,
+"name": "Little Chopan",
+"snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/Xf6_Q0U9glJ6LbFv8HQvtw/ms.jpg",
+"rating_img_url_small": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+"url": "http://www.yelp.de/biz/little-chopan-m%C3%BCnchen",
+"phone": "+498961465888",
+"snippet_text": "3.5 stars.\n\nA convenient location by the Gasteig for a quick Afghan meal before a performance. We went to the cozy and atmospheric \"Little Chopan\" on an...",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 61465888",
+"rating_img_url_large": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+"id": "little-chopan-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Rosenheimer Str. 8",
+"81669 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"postal_code": "81669",
+"country_code": "DE",
+"address": [
+"Rosenheimer Str. 8"
+],
+"coordinate": {
+"latitude": 48.1314392,
+"longitude": 11.5888395
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3,
+"mobile_url": "http://m.yelp.de/biz/afghan-grillhaus-m%C3%BCnchen",
+"rating_img_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+"review_count": 1,
+"name": "Afghan Grillhaus",
+"snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/fWsIaSmcpr3t-yIzTLhPlg/ms.jpg",
+"rating_img_url_small": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+"url": "http://www.yelp.de/biz/afghan-grillhaus-m%C3%BCnchen",
+"snippet_text": "It took them more then 1 hour to get the food delivered. The upside is, that they offer delivery pretty much the whole night. The food was ok, but 15 euro...",
+"categories": [
+[
+"Afghan",
+"afghani"
+],
+[
+"Barbeque",
+"bbq"
+]
+],
+"rating_img_url_large": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+"id": "afghan-grillhaus-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Kapuziner Str. 17",
+"80337 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"postal_code": "80337",
+"country_code": "DE",
+"address": [
+"Kapuziner Str. 17"
+],
+"coordinate": {
+"latitude": 48.1270561218262,
+"longitude": 11.5575246810913
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 5,
+"mobile_url": "http://m.yelp.de/biz/chopan-schwabing-m%C3%BCnchen-2",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+"review_count": 2,
+"name": "Chopan-Schwabing",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+"url": "http://www.yelp.de/biz/chopan-schwabing-m%C3%BCnchen-2",
+"image_url": "http://s3-media1.fl.yelpassets.com/bphoto/olqc-U11NPfAfsqLf-jvJA/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+"id": "chopan-schwabing-münchen-2",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Occamstr. 3",
+"Schwabing",
+"80802 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Schwabing"
+],
+"postal_code": "80802",
+"country_code": "DE",
+"address": [
+"Occamstr. 3"
+],
+"coordinate": {
+"latitude": 48.1617203,
+"longitude": 11.5891895
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/toulou-m%C3%BCnchen",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 13,
+"name": "Toulou",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/toulou-m%C3%BCnchen",
+"phone": "+498923076717",
+"image_url": "http://s3-media1.fl.yelpassets.com/bphoto/wefS0AP0ufpEN3xwgwjLqQ/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 23076717",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "toulou-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Herzog-Wilhelm-Str. 25",
+"Altstadt",
+"80331 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Altstadt"
+],
+"postal_code": "80331",
+"country_code": "DE",
+"address": [
+"Herzog-Wilhelm-Str. 25"
+],
+"coordinate": {
+"latitude": 48.1354713,
+"longitude": 11.5673399
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 4,
+"mobile_url": "http://m.yelp.de/biz/lemar-starnberg",
+"rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+"review_count": 12,
+"name": "Lemar",
+"snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/0Vn99qbBIe24JfPJYnvOIg/ms.jpg",
+"rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+"url": "http://www.yelp.de/biz/lemar-starnberg",
+"phone": "+4981516410",
+"snippet_text": "The best Afghani restaurant in munich! Everything is authentic and made from the family recipe. Highly recommended, great customer service. Salim and Wais...",
+"image_url": "http://s3-media4.fl.yelpassets.com/bphoto/IJvfws3wbU5AepgGgZinug/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 8151 6410",
+"rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+"id": "lemar-starnberg",
+"is_closed": false,
+"location": {
+"city": "Starnberg",
+"display_address": [
+"Zweigstr. 2",
+"82319 Starnberg",
+"Germany"
+],
+"geo_accuracy": 8,
+"postal_code": "82319",
+"country_code": "DE",
+"address": [
+"Zweigstr. 2"
+],
+"coordinate": {
+"latitude": 47.9972115,
+"longitude": 11.3428602
+},
+"state_code": "BY"
+}
+},
+null,
+{
+"is_claimed": true,
+"rating": 4.5,
+"mobile_url": "http://m.yelp.de/biz/bamyan-narges-m%C3%BCnchen",
+"rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+"review_count": 68,
+"name": "Bamyan Narges",
+"snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/I7xwEiiqssOFoUM2H7Z5jg/ms.jpg",
+"rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+"url": "http://www.yelp.de/biz/bamyan-narges-m%C3%BCnchen",
+"phone": "+498923888878",
+"snippet_text": "We were headed somewhere else in the rain, but it was closed so we ended up coming here. What a pleasant surprise. \n\nWe arrived shortly after 1530 so there...",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/9wAkDchBEDIoyjVJ1rKeLQ/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 23888878",
+"rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+"id": "bamyan-narges-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Hans-Sachs-Str. 3",
+"Isarvorstadt",
+"80469 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"neighborhoods": [
+"Isarvorstadt"
+],
+"postal_code": "80469",
+"country_code": "DE",
+"address": [
+"Hans-Sachs-Str. 3"
+],
+"coordinate": {
+"latitude": 48.1303506,
+"longitude": 11.570389
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/chopan-m%C3%BCnchen",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 47,
+"name": "Chopan",
+"snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/FGZEiRTmgWXWh_Krn8qCjg/ms.jpg",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/chopan-m%C3%BCnchen",
+"phone": "+498918956459",
+"snippet_text": "Nice place. The atmosphere is cool and nice service. A bit small portions for the price. Overall a place to try at least once.",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/KBYIx5_3PbRL6ojY9Y2U5Q/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 18956459",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "chopan-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Elvirastraße 18a",
+"Neuhausen",
+"80636 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Neuhausen"
+],
+"postal_code": "80636",
+"country_code": "DE",
+"address": [
+"Elvirastraße 18a"
+],
+"coordinate": {
+"latitude": 48.1484108,
+"longitude": 11.5435104
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": true,
+"rating": 4,
+"mobile_url": "http://m.yelp.de/biz/chopan-m%C3%BCnchen-2",
+"rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+"review_count": 38,
+"name": "Chopan",
+"snippet_image_url": "http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+"rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+"url": "http://www.yelp.de/biz/chopan-m%C3%BCnchen-2",
+"phone": "+498944118571",
+"snippet_text": "Amazing food. This little gourmet pearl in Munich is run by an afghan family and delivers absolutly great food. If you sit on the wall in this very small...",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/x0TT-82zWO3WRySK98Qp6w/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 44118571",
+"rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+"id": "chopan-münchen-2",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Rosenheimer Str. 6",
+"81669 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"postal_code": "81669",
+"country_code": "DE",
+"address": [
+"Rosenheimer Str. 6"
+],
+"coordinate": {
+"latitude": 48.1314555,
+"longitude": 11.5883344
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/lemar-m%C3%BCnchen",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 44,
+"name": "Lemar",
+"snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/Yyy9zZwPxmTg45cR_wCvsg/ms.jpg",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/lemar-m%C3%BCnchen",
+"phone": "+4989397677",
+"snippet_text": "Dont know if this is the one i went to or not since there are 2 \"Lemar\"s, food is great, amounts are not so much",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/YBcU81JegSYHVjpE81T8dQ/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+],
+[
+"Lounges",
+"lounges"
+]
+],
+"display_phone": "+49 89 397677",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "lemar-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Brunnstr. 4",
+"Altstadt",
+"80331 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Altstadt"
+],
+"postal_code": "80331",
+"country_code": "DE",
+"address": [
+"Brunnstr. 4"
+],
+"coordinate": {
+"latitude": 48.1363106,
+"longitude": 11.5689402
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": true,
+"rating": 4,
+"mobile_url": "http://m.yelp.de/biz/khorassan-m%C3%BCnchen-2",
+"rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+"review_count": 6,
+"name": "Khorassan",
+"rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+"url": "http://www.yelp.de/biz/khorassan-m%C3%BCnchen-2",
+"phone": "+498930668937",
+"image_url": "http://s3-media3.fl.yelpassets.com/bphoto/H5i6BRntvYAxexG8pVqQEw/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+],
+[
+"Food Delivery Services",
+"fooddeliveryservices"
+],
+[
+"Caterers",
+"catering"
+]
+],
+"display_phone": "+49 89 30668937",
+"rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+"id": "khorassan-münchen-2",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Ungererstr. 56",
+"Schwabing",
+"80805 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"neighborhoods": [
+"Schwabing"
+],
+"postal_code": "80805",
+"country_code": "DE",
+"address": [
+"Ungererstr. 56"
+],
+"coordinate": {
+"latitude": 48.166649,
+"longitude": 11.5907
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3,
+"mobile_url": "http://m.yelp.de/biz/lemar-isartor-m%C3%BCnchen",
+"rating_img_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+"review_count": 5,
+"name": "Lemar Isartor",
+"rating_img_url_small": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+"url": "http://www.yelp.de/biz/lemar-isartor-m%C3%BCnchen",
+"phone": "+498999940747",
+"image_url": "http://s3-media4.fl.yelpassets.com/bphoto/wsIHFCSjaM3u-_XKg-XP6w/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 99940747",
+"rating_img_url_large": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+"id": "lemar-isartor-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Thierschstraße 5",
+"80538 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"postal_code": "80538",
+"country_code": "DE",
+"address": [
+"Thierschstraße 5"
+],
+"coordinate": {
+"latitude": 48.134361,
+"longitude": 11.584439
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/lemar-m%C3%BCnchen-3",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 52,
+"name": "Lemar",
+"snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/zVfY0BVbgGAfiE3nscsCEg/ms.jpg",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/lemar-m%C3%BCnchen-3",
+"phone": "+4989397677",
+"snippet_text": "A very nice Afghane restaurant, we enjoyed the nice atmosphere and the decoration: you can even dine on a table that is lower on the ground (oriental...",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/GFvkc971K6Da5qDHRP0dLA/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 397677",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "lemar-münchen-3",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Viktor-Scheffel-Str. 23",
+"Schwabing-West",
+"80803 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Schwabing-West"
+],
+"postal_code": "80803",
+"country_code": "DE",
+"address": [
+"Viktor-Scheffel-Str. 23"
+],
+"coordinate": {
+"latitude": 48.1617203,
+"longitude": 11.5751495
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3,
+"mobile_url": "http://m.yelp.de/biz/little-chopan-m%C3%BCnchen",
+"rating_img_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+"review_count": 1,
+"name": "Little Chopan",
+"snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/Xf6_Q0U9glJ6LbFv8HQvtw/ms.jpg",
+"rating_img_url_small": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+"url": "http://www.yelp.de/biz/little-chopan-m%C3%BCnchen",
+"phone": "+498961465888",
+"snippet_text": "3.5 stars.\n\nA convenient location by the Gasteig for a quick Afghan meal before a performance. We went to the cozy and atmospheric \"Little Chopan\" on an...",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 61465888",
+"rating_img_url_large": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+"id": "little-chopan-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Rosenheimer Str. 8",
+"81669 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"postal_code": "81669",
+"country_code": "DE",
+"address": [
+"Rosenheimer Str. 8"
+],
+"coordinate": {
+"latitude": 48.1314392,
+"longitude": 11.5888395
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3,
+"mobile_url": "http://m.yelp.de/biz/afghan-grillhaus-m%C3%BCnchen",
+"rating_img_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+"review_count": 1,
+"name": "Afghan Grillhaus",
+"snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/fWsIaSmcpr3t-yIzTLhPlg/ms.jpg",
+"rating_img_url_small": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+"url": "http://www.yelp.de/biz/afghan-grillhaus-m%C3%BCnchen",
+"snippet_text": "It took them more then 1 hour to get the food delivered. The upside is, that they offer delivery pretty much the whole night. The food was ok, but 15 euro...",
+"categories": [
+[
+"Afghan",
+"afghani"
+],
+[
+"Barbeque",
+"bbq"
+]
+],
+"rating_img_url_large": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+"id": "afghan-grillhaus-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Kapuziner Str. 17",
+"80337 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"postal_code": "80337",
+"country_code": "DE",
+"address": [
+"Kapuziner Str. 17"
+],
+"coordinate": {
+"latitude": 48.1270561218262,
+"longitude": 11.5575246810913
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 5,
+"mobile_url": "http://m.yelp.de/biz/chopan-schwabing-m%C3%BCnchen-2",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+"review_count": 2,
+"name": "Chopan-Schwabing",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+"url": "http://www.yelp.de/biz/chopan-schwabing-m%C3%BCnchen-2",
+"image_url": "http://s3-media1.fl.yelpassets.com/bphoto/olqc-U11NPfAfsqLf-jvJA/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+"id": "chopan-schwabing-münchen-2",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Occamstr. 3",
+"Schwabing",
+"80802 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Schwabing"
+],
+"postal_code": "80802",
+"country_code": "DE",
+"address": [
+"Occamstr. 3"
+],
+"coordinate": {
+"latitude": 48.1617203,
+"longitude": 11.5891895
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/toulou-m%C3%BCnchen",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 13,
+"name": "Toulou",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/toulou-m%C3%BCnchen",
+"phone": "+498923076717",
+"image_url": "http://s3-media1.fl.yelpassets.com/bphoto/wefS0AP0ufpEN3xwgwjLqQ/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 23076717",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "toulou-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Herzog-Wilhelm-Str. 25",
+"Altstadt",
+"80331 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Altstadt"
+],
+"postal_code": "80331",
+"country_code": "DE",
+"address": [
+"Herzog-Wilhelm-Str. 25"
+],
+"coordinate": {
+"latitude": 48.1354713,
+"longitude": 11.5673399
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 4,
+"mobile_url": "http://m.yelp.de/biz/lemar-starnberg",
+"rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+"review_count": 12,
+"name": "Lemar",
+"snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/0Vn99qbBIe24JfPJYnvOIg/ms.jpg",
+"rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+"url": "http://www.yelp.de/biz/lemar-starnberg",
+"phone": "+4981516410",
+"snippet_text": "The best Afghani restaurant in munich! Everything is authentic and made from the family recipe. Highly recommended, great customer service. Salim and Wais...",
+"image_url": "http://s3-media4.fl.yelpassets.com/bphoto/IJvfws3wbU5AepgGgZinug/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 8151 6410",
+"rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+"id": "lemar-starnberg",
+"is_closed": false,
+"location": {
+"city": "Starnberg",
+"display_address": [
+"Zweigstr. 2",
+"82319 Starnberg",
+"Germany"
+],
+"geo_accuracy": 8,
+"postal_code": "82319",
+"country_code": "DE",
+"address": [
+"Zweigstr. 2"
+],
+"coordinate": {
+"latitude": 47.9972115,
+"longitude": 11.3428602
+},
+"state_code": "BY"
+}
+},
+null,
+{
+"is_claimed": true,
+"rating": 4.5,
+"mobile_url": "http://m.yelp.de/biz/bamyan-narges-m%C3%BCnchen",
+"rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+"review_count": 68,
+"name": "Bamyan Narges",
+"snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/I7xwEiiqssOFoUM2H7Z5jg/ms.jpg",
+"rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+"url": "http://www.yelp.de/biz/bamyan-narges-m%C3%BCnchen",
+"phone": "+498923888878",
+"snippet_text": "We were headed somewhere else in the rain, but it was closed so we ended up coming here. What a pleasant surprise. \n\nWe arrived shortly after 1530 so there...",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/9wAkDchBEDIoyjVJ1rKeLQ/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 23888878",
+"rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+"id": "bamyan-narges-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Hans-Sachs-Str. 3",
+"Isarvorstadt",
+"80469 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"neighborhoods": [
+"Isarvorstadt"
+],
+"postal_code": "80469",
+"country_code": "DE",
+"address": [
+"Hans-Sachs-Str. 3"
+],
+"coordinate": {
+"latitude": 48.1303506,
+"longitude": 11.570389
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/chopan-m%C3%BCnchen",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 47,
+"name": "Chopan",
+"snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/FGZEiRTmgWXWh_Krn8qCjg/ms.jpg",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/chopan-m%C3%BCnchen",
+"phone": "+498918956459",
+"snippet_text": "Nice place. The atmosphere is cool and nice service. A bit small portions for the price. Overall a place to try at least once.",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/KBYIx5_3PbRL6ojY9Y2U5Q/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 18956459",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "chopan-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Elvirastraße 18a",
+"Neuhausen",
+"80636 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Neuhausen"
+],
+"postal_code": "80636",
+"country_code": "DE",
+"address": [
+"Elvirastraße 18a"
+],
+"coordinate": {
+"latitude": 48.1484108,
+"longitude": 11.5435104
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": true,
+"rating": 4,
+"mobile_url": "http://m.yelp.de/biz/chopan-m%C3%BCnchen-2",
+"rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+"review_count": 38,
+"name": "Chopan",
+"snippet_image_url": "http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png",
+"rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+"url": "http://www.yelp.de/biz/chopan-m%C3%BCnchen-2",
+"phone": "+498944118571",
+"snippet_text": "Amazing food. This little gourmet pearl in Munich is run by an afghan family and delivers absolutly great food. If you sit on the wall in this very small...",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/x0TT-82zWO3WRySK98Qp6w/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 44118571",
+"rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+"id": "chopan-münchen-2",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Rosenheimer Str. 6",
+"81669 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"postal_code": "81669",
+"country_code": "DE",
+"address": [
+"Rosenheimer Str. 6"
+],
+"coordinate": {
+"latitude": 48.1314555,
+"longitude": 11.5883344
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/lemar-m%C3%BCnchen",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 44,
+"name": "Lemar",
+"snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/Yyy9zZwPxmTg45cR_wCvsg/ms.jpg",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/lemar-m%C3%BCnchen",
+"phone": "+4989397677",
+"snippet_text": "Dont know if this is the one i went to or not since there are 2 \"Lemar\"s, food is great, amounts are not so much",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/YBcU81JegSYHVjpE81T8dQ/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+],
+[
+"Lounges",
+"lounges"
+]
+],
+"display_phone": "+49 89 397677",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "lemar-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Brunnstr. 4",
+"Altstadt",
+"80331 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Altstadt"
+],
+"postal_code": "80331",
+"country_code": "DE",
+"address": [
+"Brunnstr. 4"
+],
+"coordinate": {
+"latitude": 48.1363106,
+"longitude": 11.5689402
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": true,
+"rating": 4,
+"mobile_url": "http://m.yelp.de/biz/khorassan-m%C3%BCnchen-2",
+"rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+"review_count": 6,
+"name": "Khorassan",
+"rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+"url": "http://www.yelp.de/biz/khorassan-m%C3%BCnchen-2",
+"phone": "+498930668937",
+"image_url": "http://s3-media3.fl.yelpassets.com/bphoto/H5i6BRntvYAxexG8pVqQEw/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+],
+[
+"Food Delivery Services",
+"fooddeliveryservices"
+],
+[
+"Caterers",
+"catering"
+]
+],
+"display_phone": "+49 89 30668937",
+"rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+"id": "khorassan-münchen-2",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Ungererstr. 56",
+"Schwabing",
+"80805 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"neighborhoods": [
+"Schwabing"
+],
+"postal_code": "80805",
+"country_code": "DE",
+"address": [
+"Ungererstr. 56"
+],
+"coordinate": {
+"latitude": 48.166649,
+"longitude": 11.5907
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3,
+"mobile_url": "http://m.yelp.de/biz/lemar-isartor-m%C3%BCnchen",
+"rating_img_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+"review_count": 5,
+"name": "Lemar Isartor",
+"rating_img_url_small": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+"url": "http://www.yelp.de/biz/lemar-isartor-m%C3%BCnchen",
+"phone": "+498999940747",
+"image_url": "http://s3-media4.fl.yelpassets.com/bphoto/wsIHFCSjaM3u-_XKg-XP6w/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 99940747",
+"rating_img_url_large": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+"id": "lemar-isartor-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Thierschstraße 5",
+"80538 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"postal_code": "80538",
+"country_code": "DE",
+"address": [
+"Thierschstraße 5"
+],
+"coordinate": {
+"latitude": 48.134361,
+"longitude": 11.584439
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/lemar-m%C3%BCnchen-3",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 52,
+"name": "Lemar",
+"snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/zVfY0BVbgGAfiE3nscsCEg/ms.jpg",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/lemar-m%C3%BCnchen-3",
+"phone": "+4989397677",
+"snippet_text": "A very nice Afghane restaurant, we enjoyed the nice atmosphere and the decoration: you can even dine on a table that is lower on the ground (oriental...",
+"image_url": "http://s3-media2.fl.yelpassets.com/bphoto/GFvkc971K6Da5qDHRP0dLA/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 397677",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "lemar-münchen-3",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Viktor-Scheffel-Str. 23",
+"Schwabing-West",
+"80803 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Schwabing-West"
+],
+"postal_code": "80803",
+"country_code": "DE",
+"address": [
+"Viktor-Scheffel-Str. 23"
+],
+"coordinate": {
+"latitude": 48.1617203,
+"longitude": 11.5751495
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3,
+"mobile_url": "http://m.yelp.de/biz/little-chopan-m%C3%BCnchen",
+"rating_img_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+"review_count": 1,
+"name": "Little Chopan",
+"snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/Xf6_Q0U9glJ6LbFv8HQvtw/ms.jpg",
+"rating_img_url_small": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+"url": "http://www.yelp.de/biz/little-chopan-m%C3%BCnchen",
+"phone": "+498961465888",
+"snippet_text": "3.5 stars.\n\nA convenient location by the Gasteig for a quick Afghan meal before a performance. We went to the cozy and atmospheric \"Little Chopan\" on an...",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 61465888",
+"rating_img_url_large": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+"id": "little-chopan-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Rosenheimer Str. 8",
+"81669 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"postal_code": "81669",
+"country_code": "DE",
+"address": [
+"Rosenheimer Str. 8"
+],
+"coordinate": {
+"latitude": 48.1314392,
+"longitude": 11.5888395
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3,
+"mobile_url": "http://m.yelp.de/biz/afghan-grillhaus-m%C3%BCnchen",
+"rating_img_url": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+"review_count": 1,
+"name": "Afghan Grillhaus",
+"snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/fWsIaSmcpr3t-yIzTLhPlg/ms.jpg",
+"rating_img_url_small": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png",
+"url": "http://www.yelp.de/biz/afghan-grillhaus-m%C3%BCnchen",
+"snippet_text": "It took them more then 1 hour to get the food delivered. The upside is, that they offer delivery pretty much the whole night. The food was ok, but 15 euro...",
+"categories": [
+[
+"Afghan",
+"afghani"
+],
+[
+"Barbeque",
+"bbq"
+]
+],
+"rating_img_url_large": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+"id": "afghan-grillhaus-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Kapuziner Str. 17",
+"80337 München",
+"Germany"
+],
+"geo_accuracy": 9.5,
+"postal_code": "80337",
+"country_code": "DE",
+"address": [
+"Kapuziner Str. 17"
+],
+"coordinate": {
+"latitude": 48.1270561218262,
+"longitude": 11.5575246810913
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 5,
+"mobile_url": "http://m.yelp.de/biz/chopan-schwabing-m%C3%BCnchen-2",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+"review_count": 2,
+"name": "Chopan-Schwabing",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+"url": "http://www.yelp.de/biz/chopan-schwabing-m%C3%BCnchen-2",
+"image_url": "http://s3-media1.fl.yelpassets.com/bphoto/olqc-U11NPfAfsqLf-jvJA/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+"id": "chopan-schwabing-münchen-2",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Occamstr. 3",
+"Schwabing",
+"80802 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Schwabing"
+],
+"postal_code": "80802",
+"country_code": "DE",
+"address": [
+"Occamstr. 3"
+],
+"coordinate": {
+"latitude": 48.1617203,
+"longitude": 11.5891895
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 3.5,
+"mobile_url": "http://m.yelp.de/biz/toulou-m%C3%BCnchen",
+"rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+"review_count": 13,
+"name": "Toulou",
+"rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+"url": "http://www.yelp.de/biz/toulou-m%C3%BCnchen",
+"phone": "+498923076717",
+"image_url": "http://s3-media1.fl.yelpassets.com/bphoto/wefS0AP0ufpEN3xwgwjLqQ/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 89 23076717",
+"rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+"id": "toulou-münchen",
+"is_closed": false,
+"location": {
+"city": "München",
+"display_address": [
+"Herzog-Wilhelm-Str. 25",
+"Altstadt",
+"80331 München",
+"Germany"
+],
+"geo_accuracy": 8,
+"neighborhoods": [
+"Altstadt"
+],
+"postal_code": "80331",
+"country_code": "DE",
+"address": [
+"Herzog-Wilhelm-Str. 25"
+],
+"coordinate": {
+"latitude": 48.1354713,
+"longitude": 11.5673399
+},
+"state_code": "BY"
+}
+},
+{
+"is_claimed": false,
+"rating": 4,
+"mobile_url": "http://m.yelp.de/biz/lemar-starnberg",
+"rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+"review_count": 12,
+"name": "Lemar",
+"snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/0Vn99qbBIe24JfPJYnvOIg/ms.jpg",
+"rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+"url": "http://www.yelp.de/biz/lemar-starnberg",
+"phone": "+4981516410",
+"snippet_text": "The best Afghani restaurant in munich! Everything is authentic and made from the family recipe. Highly recommended, great customer service. Salim and Wais...",
+"image_url": "http://s3-media4.fl.yelpassets.com/bphoto/IJvfws3wbU5AepgGgZinug/ms.jpg",
+"categories": [
+[
+"Afghan",
+"afghani"
+]
+],
+"display_phone": "+49 8151 6410",
+"rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+"id": "lemar-starnberg",
+"is_closed": false,
+"location": {
+"city": "Starnberg",
+"display_address": [
+"Zweigstr. 2",
+"82319 Starnberg",
+"Germany"
+],
+"geo_accuracy": 8,
+"postal_code": "82319",
+"country_code": "DE",
+"address": [
+"Zweigstr. 2"
+],
+"coordinate": {
+"latitude": 47.9972115,
+"longitude": 11.3428602
+},
+"state_code": "BY"
+}
+},
+]

@@ -1,0 +1,26 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Raphael Circle Test</title>
+
+
+        <script src="raphael.js" type="text/javascript" charset="utf-8"></script>
+        <script type="text/javascript" charset="utf-8">
+        window.onload = function () {
+            var paper= Raphael("holder", 1280, 720);
+            var circle = paper.circle(400, 300, 70);
+            // Sets the fill attribute of the circle to red (#f00)
+            circle.attr("fill", "#669");
+            // Sets the stroke attribute of the circle to white
+            circle.attr("stroke", "#276"); 
+            circle.attr("stroke-width", 8);
+        };
+        </script>
+    </head>
+    <body>
+        <div id="holder"></div>
+    </body>
+</html>
+ 

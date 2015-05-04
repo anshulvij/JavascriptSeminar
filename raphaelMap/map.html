@@ -1,0 +1,178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Where is my dinner @Munich?</title>
+        <link rel="stylesheet" href="demo.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="demo-print.css" type="text/css" media="print">
+        <style type="text/css" media="screen">
+            #canvas {
+                height: 720dpi;
+                left: 40%;
+                margin: -50px 0 200px -300px;
+                position: absolute;
+                top: 30%;
+                width: 1280dpi;
+            }
+            #paper {
+                height: 720pt;
+                left: 0;
+                margin: 0 0 100 0 ;
+                position: absolute;
+                top: 0;
+                width: 1280pt;
+            }
+            h2,h3,h1 {
+                text-align: center;
+            }
+        </style>
+        <script src="raphael.js" type="text/javascript"></script>
+        <script type="text/javascript" src="munichDistricts.json"/></script>
+    <script type="text/javascript" src="restaurants_all.json"/></script>
+        <script type="text/javascript">
+            var districtsPolygons = [];
+            window.onload = function () {
+                
+                var R = Raphael("paper", '1280', '720');
+                var attr = {
+                    fill: "#e24254",
+                    stroke: "#fff",
+                    "stroke-width": 15
+                };
+                var munichDistricts = munichDistrictsJSON.districts; 
+                var restaurants = restaurantsMunich.restaurants;
+                console.log("Restaurant count = ",restaurants.length);
+                for(var i in restaurants){
+                    for(var j in munichDistricts){
+                        //check if this district contains the postcode of restaurant location
+                        if(munichDistricts[j].postcodes.indexOf(parseInt(restaurants[i].location.postal_code))!=-1){
+                            //if restaurant count is defined for this district increment with one
+                            if(munichDistricts[j].restaurantCount != undefined){
+                                munichDistricts[j].restaurantCount++;
+                            } else {
+                                //defining restaurantCount field with value 1
+                                //this runs only once per district
+                                munichDistricts[j].restaurantCount=1;
+                            }
+                            
+                            
+                        }
+                    }
+                }
+                var lastDistrict;
+
+                for(var i in munichDistricts){
+                    console.log("Drawing district : ",munichDistricts[i]);
+                    if(munichDistricts[i].path){
+                        var districtSvg = R.path(munichDistricts[i].path);
+                        
+                        if(munichDistricts[i].restaurantCount){
+                            attr.fill = getGradientColor(munichDistricts[i].restaurantCount);
+                        } else {
+                            attr.fill = getGradientColor(0);
+                        }
+                        //IMPORTANT: using this will always use the last value of i
+//                        districtSvg[0].onclick= function(munichDistricts[i]){
+//                               console.log("onclick",munichDistricts[i].name); 
+//                        };
+                        
+                        //IMPORTANT: Must pass the arguments for current district as parameter
+                        //Else due to closure property of javascript it will always bind event
+                        //to last object value in the for loop
+                        var addEventListeners = function(currentDistrict,districtSvg,attr) { 
+                            districtSvg.node.onmouseover = function() { 
+                                districtSvg.animate({fill: "#409340"}, 500);
+                                document.getElementById("hoverDistrict").innerHTML=currentDistrict.name;
+                                if(currentDistrict.restaurantCount){
+                                    document.getElementById("clickDistrict").innerHTML="Number of restaurants : " + 
+                                        currentDistrict.restaurantCount;
+                                } else {
+                                    document.getElementById("clickDistrict").innerHTML=" :( Sorry no restaurants found.";
+                                }
+                                console.log("onmouseover",currentDistrict.name); 
+                            };
+                            var now = 1;
+                            districtSvg.node.onclick = function() {
+                                //check to prevent consecutive animating same district
+                                
+                                if(lastDistrict!=districtSvg){  
+                                    hideOthers(districtSvg)
+                                    lastDistrict = districtSvg;
+                                    console.log("onclick",currentDistrict.name);
+                                } else {
+                                    showAll();
+                                    lastDistrict=null;
+                                }
+                            };
+                            districtSvg.node.onmouseout = function(){
+                                if(currentDistrict.restaurantCount){
+                                    attr.fill = getGradientColor(currentDistrict.restaurantCount);
+                                } else {
+                                    attr.fill = getGradientColor(0);
+                                }
+                                showAll();
+                                lastDistrict=null;
+                                districtSvg.animate(attr, 500);
+                                document.getElementById("hoverDistrict").innerHTML="";
+                                document.getElementById("clickDistrict").innerHTML="";
+                                console.log("onmouseout",currentDistrict.name); 
+                            };
+                        };
+                        addEventListeners(munichDistricts[i],districtSvg,attr);
+                        districtSvg.attr(attr);
+                        districtSvg.transform("m0.1 0 0 -0.1 100 500");
+        
+                        districtsPolygons.push(districtSvg);
+                        
+                       
+                    }
+                }
+                console.log("districtsPolygons",districtsPolygons);
+
+            };
+            //generate heat color dependent on number of restaurants
+            function getGradientColor(restaurantCount){
+                var R =250;
+                var G=150;
+                var B=150;
+                //dividing heat levels with a step of 200 restaurants
+                var districtHeat = parseInt(restaurantCount/200);
+                
+                R-=districtHeat*20;
+                G-=districtHeat*20;
+                B-=districtHeat*20;
+                return "rgb("+R+","+G+","+B+")";
+            }
+            //this will hide all other districts from the districtsPolygons and enlarge the given district
+            function hideOthers(element){
+                var attrs = [{opacity: 1,transform:"...S2,2r360"}, {opacity: 0,transform: "m0.1 0 0 -0.1 100 500"}];
+                for(var i in districtsPolygons){
+                    if(districtsPolygons[i]!=element){ 
+                        districtsPolygons[i].animate(attrs[1], 1000);                        
+                    } else {
+                       districtsPolygons[i].toFront();
+                       districtsPolygons[i].animate(attrs[0], 1000);
+                    }
+                }
+            }
+            //shows all districts and set to initial transformation
+            function showAll(){
+                var attrs = [{opacity: 1,transform: "m0.1 0 0 -0.1 100 500"}, {opacity: 0,transform: "m0.1 0 0 -0.1 100 500"}];
+                for(var i in districtsPolygons){
+                        districtsPolygons[i].animate(attrs[0], 1000);                        
+                }  
+            }
+
+        </script>
+    </head>
+    <body>
+        <h1>Explore Munich's restaurants</h1>
+        <h2 id="hoverDistrict"></h2>
+        <h2 id="clickDistrict"></h2>
+        <div id="canvas">
+            <div id="paper"></div>
+        </div>
+
+    </body>
+</html>
+ 
